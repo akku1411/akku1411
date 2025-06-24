@@ -1,5 +1,3 @@
-python contribute.py --repository=git@github.com:user/repo.git
-
 <h1 align="center">Hi 👋, I'm Akash Pandey</h1>
 <h3 align="center">A passionate Full Stack Developer from Uttar Pradesh, India</h3>
 
